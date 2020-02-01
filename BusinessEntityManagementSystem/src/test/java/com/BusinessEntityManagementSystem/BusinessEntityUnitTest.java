@@ -10,7 +10,7 @@ package com.BusinessEntityManagementSystem;
         import com.fasterxml.jackson.databind.ObjectMapper;
         import com.fasterxml.jackson.databind.node.TreeTraversingParser;
         import com.fasterxml.jackson.datatype.jsonorg.JsonOrgModule;
-        import javafx.application.Application;
+//        import javafx.application.Application;
         import net.joshka.junit.json.params.JsonFileSource;
         import org.junit.Before;
         import org.junit.ClassRule;
